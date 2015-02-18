@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Users\rmuhamedyarov\Documents\Visual Studio 2013\Projects\BoardmapsTest\BoardmapsTest\bin\Debug\BoardmapsTest.dll</TopNode>
+  <SelectedNode>[0-1000]BoardmapsTest.Class1</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\rmuhamedyarov\Documents\Visual Studio 2013\Projects\BoardmapsTest\BoardmapsTest\bin\Debug\BoardmapsTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]BoardmapsTest" Expanded="true" />
+    <Node UniqueName="[0-1000]BoardmapsTest.Class1" Expanded="true" />
+  </Nodes>
+</VisualState>
